@@ -28,13 +28,19 @@ html, body {
 }
 
 body {
-  overflow-x: hidden;
+  overflow-x: visible;
+}
+
+.page {
+  overflow-x: clip;
+  max-width: 100%;
 }
 
 .atmosphere {
   position: fixed;
   inset: 0;
   z-index: -1;
+  overflow: hidden;
   background:
     radial-gradient(1200px 500px at 50% -10%, rgba(0, 142, 151, 0.42), transparent 60%),
     radial-gradient(800px 400px at 110% 20%, rgba(252, 76, 2, 0.22), transparent 50%),
@@ -96,27 +102,29 @@ body {
   position: fixed;
   top: 0;
   right: 0;
-  z-index: 80;
-  width: 168px;
-  height: 168px;
+  z-index: 100;
+  width: 148px;
+  height: 148px;
   overflow: hidden;
   pointer-events: none;
 }
 
 .chris-ribbon span {
   position: absolute;
-  top: 36px;
-  right: -58px;
-  width: 240px;
-  padding: 9px 0;
+  display: block;
+  top: 32px;
+  right: -34px;
+  width: 200px;
+  padding: 8px 0;
   background: linear-gradient(90deg, #fc4c02, #ff7a33);
   color: #fff;
   font-family: "Bebas Neue", sans-serif;
-  letter-spacing: 0.14em;
-  font-size: 18px;
+  letter-spacing: 0.08em;
+  font-size: 16px;
   line-height: 1;
   text-align: center;
   text-transform: uppercase;
+  white-space: nowrap;
   transform: rotate(45deg);
   box-shadow: 0 8px 18px rgba(0, 0, 0, 0.35);
 }
@@ -130,6 +138,8 @@ body {
   background: #021014;
   border-bottom: 1px solid var(--gold);
   overflow: hidden;
+  max-width: 100%;
+  contain: inline-size;
   white-space: nowrap;
   font-family: "IBM Plex Mono", monospace;
   font-size: 13px;
@@ -1103,7 +1113,5 @@ footer {
 
 @media (max-width: 560px) {
   .kpis, .trends, .hero-meters { grid-template-columns: 1fr; }
-  .topbar { align-items: flex-start; flex-direction: column; padding-right: 72px; }
-  .chris-ribbon { width: 120px; height: 120px; }
-  .chris-ribbon span { top: 26px; right: -62px; width: 190px; font-size: 13px; padding: 6px 0; }
+  .topbar { align-items: flex-start; flex-direction: column; padding-right: 88px; }
 }
