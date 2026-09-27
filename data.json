@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-25T19:31:38.627949-04:00",
+  "generatedAt": "2026-09-27T14:16:24.441860-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "MIA",
@@ -1151,8 +1151,8 @@
       "conferenceGame": true,
       "venue": "Hard Rock Stadium",
       "broadcast": "CBS",
-      "detail": "9/27 - 1:00 PM EDT",
-      "live": false,
+      "detail": "1:50 - 2nd",
+      "live": true,
       "final": false,
       "finsWinPct": 30,
       "homeAbbr": "MIA",
@@ -1729,21 +1729,39 @@
   },
   "injuries": [
     {
+      "name": "De'Von Achane",
+      "position": "RB",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "DJ Campbell",
+      "position": "G",
+      "status": "Out",
+      "detail": ""
+    },
+    {
+      "name": "Brady Cook",
+      "position": "QB",
+      "status": "Out",
+      "detail": ""
+    },
+    {
       "name": "Caleb Douglas",
       "position": "WR",
       "status": "Out",
       "detail": ""
     },
     {
-      "name": "Ryan Miller",
-      "position": "WR",
-      "status": "Questionable",
+      "name": "Chukwuebuka Godrick",
+      "position": "OT",
+      "status": "Out",
       "detail": ""
     },
     {
       "name": "Jaylen Wright",
       "position": "RB",
-      "status": "Doubtful",
+      "status": "Out",
       "detail": ""
     },
     {
@@ -1753,9 +1771,9 @@
       "detail": ""
     },
     {
-      "name": "JuJu Brents",
+      "name": "Marcellas Dial Jr.",
       "position": "CB",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {
