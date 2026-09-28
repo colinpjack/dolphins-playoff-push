@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T07:56:46.668441-04:00",
+  "generatedAt": "2026-09-28T15:36:07.931734-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "MIA",
@@ -1732,30 +1732,12 @@
     {
       "name": "De'Von Achane",
       "position": "RB",
-      "status": "Doubtful",
-      "detail": ""
-    },
-    {
-      "name": "DJ Campbell",
-      "position": "G",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Brady Cook",
-      "position": "QB",
       "status": "Out",
       "detail": ""
     },
     {
       "name": "Caleb Douglas",
       "position": "WR",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Chukwuebuka Godrick",
-      "position": "OT",
       "status": "Out",
       "detail": ""
     },
@@ -1768,12 +1750,6 @@
     {
       "name": "Robert Beal Jr.",
       "position": "DE",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Marcellas Dial Jr.",
-      "position": "CB",
       "status": "Out",
       "detail": ""
     },
