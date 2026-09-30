@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T02:35:41.536043-04:00",
+  "generatedAt": "2026-09-30T18:32:19.216487-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "MIA",
@@ -1730,6 +1730,12 @@
   },
   "injuries": [
     {
+      "name": "Chris Bell",
+      "position": "WR",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
       "name": "Caleb Douglas",
       "position": "WR",
       "status": "Questionable",
@@ -1744,6 +1750,12 @@
     {
       "name": "Robert Beal Jr.",
       "position": "DE",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Tucker Addington",
+      "position": "LS",
       "status": "Questionable",
       "detail": ""
     },
