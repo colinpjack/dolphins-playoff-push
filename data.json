@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T01:28:21.420999-04:00",
+  "generatedAt": "2026-10-02T12:48:06.181554-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "MIA",
@@ -1744,13 +1744,13 @@
     {
       "name": "Caleb Douglas",
       "position": "WR",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {
       "name": "Robert Beal Jr.",
       "position": "DE",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {
