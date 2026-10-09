@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-09T02:35:53.406072-04:00",
+  "generatedAt": "2026-10-09T19:26:32.999484-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "MIA",
@@ -1731,27 +1731,15 @@
   },
   "injuries": [
     {
-      "name": "Chris Bell",
-      "position": "WR",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
       "name": "Caleb Douglas",
       "position": "WR",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Austin Jackson",
-      "position": "OT",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {
       "name": "Justin Joly",
       "position": "TE",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {
@@ -1763,13 +1751,7 @@
     {
       "name": "Robert Beal Jr.",
       "position": "DE",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "JuJu Brents",
-      "position": "CB",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {
@@ -1779,20 +1761,8 @@
       "detail": ""
     },
     {
-      "name": "Dante Trader Jr.",
-      "position": "S",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
       "name": "Jackson Woodard",
       "position": "LB",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Tucker Addington",
-      "position": "LS",
       "status": "Questionable",
       "detail": ""
     },
