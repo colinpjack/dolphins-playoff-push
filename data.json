@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T20:09:08.254727-04:00",
+  "generatedAt": "2026-10-08T20:15:07.133980-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "MIA",
@@ -1745,6 +1745,18 @@
     {
       "name": "Austin Jackson",
       "position": "OT",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Justin Joly",
+      "position": "TE",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Jaylen Wright",
+      "position": "RB",
       "status": "Questionable",
       "detail": ""
     },
