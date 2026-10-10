@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-09T19:26:32.999484-04:00",
+  "generatedAt": "2026-10-10T19:26:06.682455-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "MIA",
@@ -1755,6 +1755,12 @@
       "detail": ""
     },
     {
+      "name": "Kenneth Grant",
+      "position": "DT",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
       "name": "Reese Taylor",
       "position": "CB",
       "status": "Out",
@@ -1782,12 +1788,6 @@
       "name": "Storm Duck",
       "position": "CB",
       "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Kenneth Grant",
-      "position": "DT",
-      "status": "Injured Reserve",
       "detail": ""
     },
     {
