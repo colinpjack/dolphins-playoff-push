@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T11:11:37.104768-04:00",
+  "generatedAt": "2026-10-12T18:34:11.654142-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "MIA",
@@ -1720,26 +1720,8 @@
   },
   "injuries": [
     {
-      "name": "Kaytron Allen",
-      "position": "RB",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "DJ Campbell",
-      "position": "G",
-      "status": "Out",
-      "detail": ""
-    },
-    {
       "name": "Caleb Douglas",
       "position": "WR",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Chukwuebuka Godrick",
-      "position": "OT",
       "status": "Out",
       "detail": ""
     },
