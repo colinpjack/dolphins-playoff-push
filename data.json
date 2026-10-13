@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-13T06:59:39.078254-04:00",
+  "generatedAt": "2026-10-13T14:07:25.092756-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "MIA",
@@ -1722,13 +1722,13 @@
     {
       "name": "Caleb Douglas",
       "position": "WR",
-      "status": "Out",
+      "status": "Questionable",
       "detail": ""
     },
     {
       "name": "Justin Joly",
       "position": "TE",
-      "status": "Out",
+      "status": "Questionable",
       "detail": ""
     },
     {
@@ -1740,7 +1740,7 @@
     {
       "name": "Robert Beal Jr.",
       "position": "DE",
-      "status": "Out",
+      "status": "Questionable",
       "detail": ""
     },
     {
@@ -1758,7 +1758,7 @@
     {
       "name": "Reese Taylor",
       "position": "CB",
-      "status": "Out",
+      "status": "Questionable",
       "detail": ""
     },
     {
