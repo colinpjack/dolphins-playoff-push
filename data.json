@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T00:54:00.361177-04:00",
+  "generatedAt": "2026-10-17T05:11:13.968459-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "MIA",
@@ -1928,16 +1928,6 @@
         "statLabel": "TKL"
       },
       {
-        "id": "4880346",
-        "name": "Michael Taaffe",
-        "position": "S",
-        "jersey": "16",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4880346.png",
-        "line": "32 \u00b7 1 INT",
-        "value": "32",
-        "statLabel": "TKL"
-      },
-      {
         "id": "4869579",
         "name": "Chris Johnson",
         "position": "CB",
@@ -1945,6 +1935,16 @@
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4869579.png",
         "line": "31",
         "value": "31",
+        "statLabel": "TKL"
+      },
+      {
+        "id": "4880346",
+        "name": "Michael Taaffe",
+        "position": "S",
+        "jersey": "16",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4880346.png",
+        "line": "30 \u00b7 1 INT",
+        "value": "30",
         "statLabel": "TKL"
       },
       {
