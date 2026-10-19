@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T21:04:27.454805-04:00",
+  "generatedAt": "2026-10-19T02:03:42.134845-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "MIA",
@@ -1131,7 +1131,7 @@
     "away": 6,
     "division": 6,
     "bye": 6,
-    "sos": 0.544
+    "sos": 0.55
   },
   "schedule": [
     {
@@ -1368,8 +1368,8 @@
         "name": "Green Bay Packers",
         "nickname": "Packers",
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/gb.png",
-        "record": "3-2",
-        "pct": 0.6
+        "record": "4-2",
+        "pct": 0.6666666666666666
       },
       "divisionGame": false,
       "conferenceGame": false,
@@ -1378,7 +1378,7 @@
       "detail": "12/20 - 1:00 PM EST",
       "live": false,
       "final": false,
-      "finsWinPct": 32,
+      "finsWinPct": 30,
       "homeAbbr": "GB",
       "awayAbbr": "MIA",
       "homeScore": null,
