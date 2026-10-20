@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T08:57:38.058420-04:00",
+  "generatedAt": "2026-10-20T03:25:09.837777-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "MIA",
@@ -1601,7 +1601,7 @@
         "name": "San Francisco 49ers",
         "nickname": "49ers",
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/sf.png",
-        "record": "5-0",
+        "record": "6-0",
         "pct": 1.0
       },
       "divisionGame": false,
