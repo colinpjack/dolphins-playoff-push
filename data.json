@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T00:33:40.319229-04:00",
+  "generatedAt": "2026-10-21T18:39:30.358268-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "MIA",
@@ -1726,14 +1726,14 @@
       "detail": ""
     },
     {
-      "name": "Justin Joly",
+      "name": "Will Kacmarek",
       "position": "TE",
       "status": "Questionable",
       "detail": ""
     },
     {
-      "name": "Jonah Savaiinaea",
-      "position": "G",
+      "name": "Jaylen Wright",
+      "position": "RB",
       "status": "Questionable",
       "detail": ""
     },
@@ -1744,20 +1744,14 @@
       "detail": ""
     },
     {
-      "name": "JuJu Brents",
-      "position": "CB",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Michael Taaffe",
-      "position": "S",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
       "name": "Reese Taylor",
       "position": "CB",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Tucker Addington",
+      "position": "LS",
       "status": "Questionable",
       "detail": ""
     },
