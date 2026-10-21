@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T13:55:25.893249-04:00",
+  "generatedAt": "2026-10-21T00:33:40.319229-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "MIA",
@@ -1771,12 +1771,6 @@
       "name": "Darrell Baker Jr.",
       "position": "CB",
       "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Storm Duck",
-      "position": "CB",
-      "status": "IR",
       "detail": ""
     },
     {
