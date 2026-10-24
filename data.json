@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T17:59:44.375943-04:00",
+  "generatedAt": "2026-10-24T15:24:14.995265-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "MIA",
@@ -1764,7 +1764,7 @@
     {
       "name": "Kyle Louis",
       "position": "LB",
-      "status": "Injured Reserve",
+      "status": "IR",
       "detail": ""
     },
     {
