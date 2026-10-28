@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T13:19:20.835292-04:00",
+  "generatedAt": "2026-10-28T17:52:51.481465-04:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "MIA",
@@ -1721,14 +1721,32 @@
   },
   "injuries": [
     {
-      "name": "Jaylen Wright",
-      "position": "RB",
+      "name": "Greg Dulcich",
+      "position": "TE",
       "status": "Questionable",
       "detail": ""
     },
     {
-      "name": "Robert Beal Jr.",
-      "position": "DE",
+      "name": "Will Kacmarek",
+      "position": "TE",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Kadyn Proctor",
+      "position": "OT",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Malik Washington",
+      "position": "WR",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Jared Wayne",
+      "position": "WR",
       "status": "Questionable",
       "detail": ""
     },
@@ -1739,14 +1757,26 @@
       "detail": ""
     },
     {
-      "name": "Willie Gay Jr.",
-      "position": "LB",
+      "name": "Michael Taaffe",
+      "position": "S",
       "status": "Questionable",
       "detail": ""
     },
     {
       "name": "Reese Taylor",
       "position": "CB",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Dante Trader Jr.",
+      "position": "S",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Tucker Addington",
+      "position": "LS",
       "status": "Questionable",
       "detail": ""
     },
