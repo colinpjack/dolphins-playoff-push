@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T18:55:04.716910-04:00",
+  "generatedAt": "2026-11-01T15:46:20.016805-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "MIA",
@@ -1721,21 +1721,39 @@
   },
   "injuries": [
     {
+      "name": "Justin Joly",
+      "position": "TE",
+      "status": "Out",
+      "detail": ""
+    },
+    {
       "name": "Kadyn Proctor",
       "position": "OT",
       "status": "Out",
       "detail": ""
     },
     {
-      "name": "JuJu Brents",
-      "position": "CB",
-      "status": "Questionable",
+      "name": "Jared Wayne",
+      "position": "WR",
+      "status": "Out",
       "detail": ""
     },
     {
-      "name": "Reese Taylor",
+      "name": "Marcellas Dial Jr.",
       "position": "CB",
-      "status": "Questionable",
+      "status": "Out",
+      "detail": ""
+    },
+    {
+      "name": "Jamree Kromah",
+      "position": "DE",
+      "status": "Out",
+      "detail": ""
+    },
+    {
+      "name": "Jaylin Simpson",
+      "position": "S",
+      "status": "Out",
       "detail": ""
     },
     {
