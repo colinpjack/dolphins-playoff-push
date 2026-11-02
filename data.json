@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T19:32:57.784901-05:00",
+  "generatedAt": "2026-11-02T01:43:36.306531-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "MIA",
@@ -15,7 +15,7 @@
     "3.5 GB OF THE CUT LINE",
     "NEXT SUN VS DET",
     "BYE WEEK 6",
-    "PASSER RATING 77.1"
+    "PASSER RATING 79.7"
   ],
   "narrative": {
     "kicker": "AFC playoff race",
@@ -65,11 +65,11 @@
     }
   },
   "playoffOdds": {
-    "percent": 0.36,
+    "percent": 0.14,
     "sims": 5000,
-    "note": "Division title in 0.1% of sims, wild card in 0.2%. Point differential, shrunk toward average, plus home field. Not a betting line.",
-    "divisionPercent": 0.14,
-    "wildcardPercent": 0.22
+    "note": "Division title in 0.0% of sims, wild card in 0.1%. Point differential, shrunk toward average, plus home field. Not a betting line.",
+    "divisionPercent": 0.02,
+    "wildcardPercent": 0.12
   },
   "kpis": [
     {
@@ -87,25 +87,25 @@
     {
       "stat": "PPG",
       "label": "Points / game",
-      "value": "16.3",
+      "value": "16.7",
       "hint": "League average sits near 22"
     },
     {
       "stat": "PA",
       "label": "Points allowed",
-      "value": "26.2",
+      "value": "25.9",
       "hint": "Per game. Lower is the whole defense"
     },
     {
       "stat": "YPG",
       "label": "Yards / game",
-      "value": "307.7",
+      "value": "304.4",
       "hint": "Total offense, pass plus rush"
     },
     {
       "stat": "YPG",
       "label": "Yards allowed",
-      "value": "346.3",
+      "value": "344.0",
       "hint": "What the defense is giving up"
     },
     {
@@ -117,8 +117,8 @@
     {
       "stat": "3rd",
       "label": "Third down",
-      "value": "41%",
-      "hint": "31-75 \u00b7 around 40% is average"
+      "value": "43%",
+      "hint": "38-89 \u00b7 around 40% is average"
     },
     {
       "stat": "RZ",
@@ -129,7 +129,7 @@
     {
       "stat": "SACK",
       "label": "Sack margin",
-      "value": "-10",
+      "value": "-12",
       "hint": "Sacks recorded minus sacks allowed"
     },
     {
@@ -156,15 +156,15 @@
     {
       "stat": "PPG",
       "label": "Scoring margin / game",
-      "value": "-9.8",
-      "detail": "16.3 scored, 26.2 allowed.",
+      "value": "-9.1",
+      "detail": "16.7 scored, 25.9 allowed.",
       "direction": "down"
     },
     {
       "stat": "3rd",
       "label": "Third down",
-      "value": "41%",
-      "detail": "31-75",
+      "value": "43%",
+      "detail": "38-89",
       "direction": "up"
     },
     {
@@ -177,14 +177,14 @@
     {
       "stat": "SACK",
       "label": "Sack margin",
-      "value": "-10",
+      "value": "-12",
       "detail": "Pass rush minus pass protection.",
       "direction": "down"
     },
     {
       "stat": "TOP",
       "label": "Time of possession",
-      "value": "28:54",
+      "value": "28:47",
       "detail": "Per game. Thirty minutes is a split clock.",
       "direction": "flat"
     }
@@ -233,9 +233,9 @@
       "home": "3-1",
       "road": "3-0",
       "gr": 10,
-      "ypg": 399.5,
-      "yapg": 399.7,
-      "to": -3,
+      "ypg": 404.6,
+      "yapg": 366.4,
+      "to": -2,
       "gb": "+1.5",
       "gbValue": -1.5,
       "path": "East champ",
@@ -244,29 +244,29 @@
       "isCut": false
     },
     {
-      "abbr": "KC",
-      "name": "Kansas City Chiefs",
-      "nickname": "Chiefs",
-      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/kc.png",
+      "abbr": "DEN",
+      "name": "Denver Broncos",
+      "nickname": "Broncos",
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/den.png",
       "conference": "AFC",
       "division": "AFC West",
       "seed": 2,
-      "wins": 5,
-      "losses": 1,
+      "wins": 6,
+      "losses": 2,
       "ties": 0,
-      "record": "5-1",
-      "pct": 0.833,
-      "pf": 143,
-      "pa": 103,
-      "diff": 40,
-      "ppg": 23.8,
-      "papg": 17.2,
-      "streak": "L1",
-      "divisionRecord": "3-0",
-      "conferenceRecord": "5-0",
-      "home": "3-0",
-      "road": "2-1",
-      "gr": 11,
+      "record": "6-2",
+      "pct": 0.75,
+      "pf": 172,
+      "pa": 165,
+      "diff": 7,
+      "ppg": 21.5,
+      "papg": 20.6,
+      "streak": "W4",
+      "divisionRecord": "2-1",
+      "conferenceRecord": "3-1",
+      "home": "4-0",
+      "road": "2-2",
+      "gr": 9,
       "ypg": null,
       "yapg": null,
       "to": null,
@@ -346,10 +346,10 @@
       "isCut": false
     },
     {
-      "abbr": "DEN",
-      "name": "Denver Broncos",
-      "nickname": "Broncos",
-      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/den.png",
+      "abbr": "KC",
+      "name": "Kansas City Chiefs",
+      "nickname": "Chiefs",
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/kc.png",
       "conference": "AFC",
       "division": "AFC West",
       "seed": 5,
@@ -358,14 +358,14 @@
       "ties": 0,
       "record": "5-2",
       "pct": 0.714,
-      "pf": 144,
-      "pa": 141,
-      "diff": 3,
-      "ppg": 20.6,
-      "papg": 20.1,
-      "streak": "W3",
-      "divisionRecord": "1-1",
-      "conferenceRecord": "2-1",
+      "pf": 167,
+      "pa": 131,
+      "diff": 36,
+      "ppg": 23.9,
+      "papg": 18.7,
+      "streak": "L2",
+      "divisionRecord": "3-1",
+      "conferenceRecord": "5-1",
       "home": "3-0",
       "road": "2-2",
       "gr": 10,
@@ -437,8 +437,8 @@
       "home": "3-0",
       "road": "2-3",
       "gr": 9,
-      "ypg": 383.4,
-      "yapg": 334.3,
+      "ypg": 376.8,
+      "yapg": 328.1,
       "to": -7,
       "gb": "\u2014",
       "gbValue": 0.0,
@@ -607,9 +607,9 @@
       "home": "1-3",
       "road": "1-3",
       "gr": 9,
-      "ypg": 328.3,
-      "yapg": 330.6,
-      "to": 3,
+      "ypg": 344.2,
+      "yapg": 332.0,
+      "to": 2,
       "gb": "3",
       "gbValue": 3.0,
       "path": "Outside",
@@ -675,8 +675,8 @@
       "home": "0-3",
       "road": "1-3",
       "gr": 10,
-      "ypg": 307.7,
-      "yapg": 346.3,
+      "ypg": 304.4,
+      "yapg": 344.0,
       "to": -3,
       "gb": "3.5",
       "gbValue": 3.5,
@@ -779,9 +779,9 @@
       "home": "3-1",
       "road": "3-0",
       "gr": 10,
-      "ypg": 399.5,
-      "yapg": 399.7,
-      "to": -3,
+      "ypg": 404.6,
+      "yapg": 366.4,
+      "to": -2,
       "gb": "\u2014",
       "gbValue": 0.0,
       "path": "East champ",
@@ -814,8 +814,8 @@
       "home": "3-0",
       "road": "2-3",
       "gr": 9,
-      "ypg": 383.4,
-      "yapg": 334.3,
+      "ypg": 376.8,
+      "yapg": 328.1,
       "to": -7,
       "gb": "1.5",
       "gbValue": 1.5,
@@ -849,9 +849,9 @@
       "home": "1-3",
       "road": "1-3",
       "gr": 9,
-      "ypg": 328.3,
-      "yapg": 330.6,
-      "to": 3,
+      "ypg": 344.2,
+      "yapg": 332.0,
+      "to": 2,
       "gb": "4.5",
       "gbValue": 4.5,
       "path": "Outside",
@@ -884,8 +884,8 @@
       "home": "0-3",
       "road": "1-3",
       "gr": 10,
-      "ypg": 307.7,
-      "yapg": 346.3,
+      "ypg": 304.4,
+      "yapg": 344.0,
       "to": -3,
       "gb": "5",
       "gbValue": 5.0,
@@ -921,9 +921,9 @@
       "home": "3-1",
       "road": "3-0",
       "gr": 10,
-      "ypg": 399.5,
-      "yapg": 399.7,
-      "to": -3
+      "ypg": 404.6,
+      "yapg": 366.4,
+      "to": -2
     },
     {
       "abbr": "PIT",
@@ -982,29 +982,29 @@
       "to": null
     },
     {
-      "abbr": "KC",
-      "name": "Kansas City Chiefs",
-      "nickname": "Chiefs",
-      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/kc.png",
+      "abbr": "DEN",
+      "name": "Denver Broncos",
+      "nickname": "Broncos",
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/den.png",
       "conference": "AFC",
       "division": "AFC West",
       "seed": 2,
-      "wins": 5,
-      "losses": 1,
+      "wins": 6,
+      "losses": 2,
       "ties": 0,
-      "record": "5-1",
-      "pct": 0.833,
-      "pf": 143,
-      "pa": 103,
-      "diff": 40,
-      "ppg": 23.8,
-      "papg": 17.2,
-      "streak": "L1",
-      "divisionRecord": "3-0",
-      "conferenceRecord": "5-0",
-      "home": "3-0",
-      "road": "2-1",
-      "gr": 11,
+      "record": "6-2",
+      "pct": 0.75,
+      "pf": 172,
+      "pa": 165,
+      "diff": 7,
+      "ppg": 21.5,
+      "papg": 20.6,
+      "streak": "W4",
+      "divisionRecord": "2-1",
+      "conferenceRecord": "3-1",
+      "home": "4-0",
+      "road": "2-2",
+      "gr": 9,
       "ypg": null,
       "yapg": null,
       "to": null
@@ -1036,9 +1036,9 @@
       "home": "3-1",
       "road": "3-0",
       "gr": 10,
-      "ypg": 399.5,
-      "yapg": 399.7,
-      "to": -3
+      "ypg": 404.6,
+      "yapg": 366.4,
+      "to": -2
     },
     {
       "abbr": "NE",
@@ -1064,8 +1064,8 @@
       "home": "3-0",
       "road": "2-3",
       "gr": 9,
-      "ypg": 383.4,
-      "yapg": 334.3,
+      "ypg": 376.8,
+      "yapg": 328.1,
       "to": -7
     },
     {
@@ -1092,9 +1092,9 @@
       "home": "1-3",
       "road": "1-3",
       "gr": 9,
-      "ypg": 328.3,
-      "yapg": 330.6,
-      "to": 3
+      "ypg": 344.2,
+      "yapg": 332.0,
+      "to": 2
     },
     {
       "abbr": "MIA",
@@ -1120,8 +1120,8 @@
       "home": "0-3",
       "road": "1-3",
       "gr": 10,
-      "ypg": 307.7,
-      "yapg": 346.3,
+      "ypg": 304.4,
+      "yapg": 344.0,
       "to": -3
     }
   ],
@@ -1131,7 +1131,7 @@
     "away": 5,
     "division": 4,
     "bye": 6,
-    "sos": 0.561
+    "sos": 0.564
   },
   "schedule": [
     {
@@ -1256,8 +1256,8 @@
         "name": "Denver Broncos",
         "nickname": "Broncos",
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/den.png",
-        "record": "5-2",
-        "pct": 0.7142857142857143
+        "record": "6-2",
+        "pct": 0.75
       },
       "divisionGame": false,
       "conferenceGame": true,
@@ -1417,17 +1417,6 @@
   ],
   "rooting": [
     {
-      "date": "2026-11-01T21:25Z",
-      "homeAbbr": "DEN",
-      "awayAbbr": "KC",
-      "homeWinPct": 44,
-      "awayWinPct": 56,
-      "interest": "Need a loss",
-      "tagClass": "need",
-      "note": "The Chiefs hold the No. 2 seed. A loss helps the cut line. The Broncos hold the No. 5 seed. A loss helps the cut line.",
-      "live": false
-    },
-    {
       "date": "2026-11-06T01:15Z",
       "homeAbbr": "BAL",
       "awayAbbr": "JAX",
@@ -1464,11 +1453,11 @@
       "date": "2026-11-08T18:00Z",
       "homeAbbr": "KC",
       "awayAbbr": "NYJ",
-      "homeWinPct": 67,
-      "awayWinPct": 33,
+      "homeWinPct": 65,
+      "awayWinPct": 35,
       "interest": "Need a loss",
       "tagClass": "need",
-      "note": "A Jets loss helps the East race. The Chiefs hold the No. 2 seed. A loss helps the cut line.",
+      "note": "A Jets loss helps the East race. The Chiefs hold the No. 5 seed. A loss helps the cut line.",
       "live": false
     },
     {
@@ -1490,7 +1479,7 @@
       "awayWinPct": 51,
       "interest": "Need a loss",
       "tagClass": "need",
-      "note": "The Broncos hold the No. 5 seed. A loss helps the cut line.",
+      "note": "The Broncos hold the No. 2 seed. A loss helps the cut line.",
       "live": false
     },
     {
@@ -1502,6 +1491,17 @@
       "interest": "Need a loss",
       "tagClass": "need",
       "note": "A Patriots loss helps the East race.",
+      "live": false
+    },
+    {
+      "date": "2026-11-08T21:25Z",
+      "homeAbbr": "SF",
+      "awayAbbr": "LV",
+      "homeWinPct": 66,
+      "awayWinPct": 34,
+      "interest": "AFC game",
+      "tagClass": "race",
+      "note": "Two clubs still in the AFC picture.",
       "live": false
     }
   ],
@@ -1574,8 +1574,8 @@
         "name": "Kansas City Chiefs",
         "nickname": "Chiefs",
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/kc.png",
-        "record": "5-1",
-        "pct": 0.8333333333333334
+        "record": "5-2",
+        "pct": 0.7142857142857143
       },
       "divisionGame": false,
       "conferenceGame": true,
@@ -1815,8 +1815,8 @@
         "position": "QB",
         "jersey": "2",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4242512.png",
-        "line": "87/151, 1057 YDS, 4 TD, 4 INT",
-        "value": "77.1",
+        "line": "108/183, 1268 YDS, 6 TD, 5 INT",
+        "value": "79.7",
         "statLabel": "RTG"
       }
     ],
@@ -1827,8 +1827,8 @@
         "position": "RB",
         "jersey": "0",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4711533.png",
-        "line": "72 CAR, 339 YDS, 4 TD",
-        "value": "339",
+        "line": "91 CAR, 408 YDS, 4 TD",
+        "value": "408",
         "statLabel": "YDS"
       },
       {
@@ -1837,8 +1837,8 @@
         "position": "TE",
         "jersey": "85",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4367209.png",
-        "line": "18 REC, 213 YDS",
-        "value": "213",
+        "line": "22 REC, 256 YDS",
+        "value": "256",
         "statLabel": "YDS"
       },
       {
@@ -1847,8 +1847,18 @@
         "position": "WR",
         "jersey": "7",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4869645.png",
-        "line": "9 REC, 183 YDS, 2 TD",
-        "value": "183",
+        "line": "13 REC, 226 YDS, 2 TD",
+        "value": "226",
+        "statLabel": "YDS"
+      },
+      {
+        "id": "4869961",
+        "name": "Chris Bell",
+        "position": "WR",
+        "jersey": "18",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4869961.png",
+        "line": "12 REC, 148 YDS",
+        "value": "148",
         "statLabel": "YDS"
       },
       {
@@ -1862,16 +1872,6 @@
         "statLabel": "YDS"
       },
       {
-        "id": "4869961",
-        "name": "Chris Bell",
-        "position": "WR",
-        "jersey": "18",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4869961.png",
-        "line": "8 REC, 117 YDS",
-        "value": "117",
-        "statLabel": "YDS"
-      },
-      {
         "id": "4369466",
         "name": "Dolphins",
         "position": "",
@@ -1882,13 +1882,13 @@
         "statLabel": "YDS"
       },
       {
-        "id": "4569603",
-        "name": "Malik Washington",
+        "id": "4685307",
+        "name": "Kevin Coleman Jr.",
         "position": "WR",
-        "jersey": "6",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4569603.png",
-        "line": "8 CAR, 38 YDS",
-        "value": "38",
+        "jersey": "21",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4685307.png",
+        "line": "8 REC, 82 YDS, 2 TD",
+        "value": "82",
         "statLabel": "YDS"
       },
       {
@@ -1897,8 +1897,8 @@
         "position": "RB",
         "jersey": "5",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4682745.png",
-        "line": "20 CAR, 36 YDS",
-        "value": "36",
+        "line": "22 CAR, 41 YDS",
+        "value": "41",
         "statLabel": "YDS"
       }
     ],
@@ -1909,8 +1909,8 @@
         "position": "LB",
         "jersey": "10",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4566094.png",
-        "line": "61 \u00b7 1 INT",
-        "value": "61",
+        "line": "69 \u00b7 1 INT",
+        "value": "69",
         "statLabel": "TKL"
       },
       {
@@ -1919,8 +1919,8 @@
         "position": "LB",
         "jersey": "20",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4043130.png",
-        "line": "52",
-        "value": "52",
+        "line": "63",
+        "value": "63",
         "statLabel": "TKL"
       },
       {
@@ -1929,18 +1929,8 @@
         "position": "CB",
         "jersey": "3",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4869579.png",
-        "line": "36",
-        "value": "36",
-        "statLabel": "TKL"
-      },
-      {
-        "id": "4431664",
-        "name": "Dante Trader Jr.",
-        "position": "S",
-        "jersey": "11",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4431664.png",
-        "line": "33 \u00b7 1 INT",
-        "value": "33",
+        "line": "40",
+        "value": "40",
         "statLabel": "TKL"
       },
       {
@@ -1949,8 +1939,18 @@
         "position": "S",
         "jersey": "16",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4880346.png",
-        "line": "33 \u00b7 2 INT",
-        "value": "33",
+        "line": "39 \u00b7 2 INT",
+        "value": "39",
+        "statLabel": "TKL"
+      },
+      {
+        "id": "4431664",
+        "name": "Dante Trader Jr.",
+        "position": "S",
+        "jersey": "11",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4431664.png",
+        "line": "37 \u00b7 1 INT",
+        "value": "37",
         "statLabel": "TKL"
       },
       {
@@ -1959,9 +1959,19 @@
         "position": "LB",
         "jersey": "9",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4046528.png",
-        "line": "25 \u00b7 1 SACK",
-        "value": "25",
+        "line": "29 \u00b7 2 SACK",
+        "value": "29",
         "statLabel": "TKL"
+      },
+      {
+        "id": "4431586",
+        "name": "Chop Robinson",
+        "position": "LB",
+        "jersey": "44",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4431586.png",
+        "line": "4",
+        "value": "4",
+        "statLabel": "SACK"
       },
       {
         "id": "3057956",
@@ -1972,18 +1982,8 @@
         "line": "2",
         "value": "2",
         "statLabel": "SACK"
-      },
-      {
-        "id": "4431586",
-        "name": "Chop Robinson",
-        "position": "LB",
-        "jersey": "44",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4431586.png",
-        "line": "2",
-        "value": "2",
-        "statLabel": "SACK"
       }
     ]
   },
-  "qbRating": 77.1
+  "qbRating": 79.7
 }
