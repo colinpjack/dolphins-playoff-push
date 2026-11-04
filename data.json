@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T09:35:45.849052-05:00",
+  "generatedAt": "2026-11-04T16:48:30.024731-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "MIA",
@@ -1722,14 +1722,62 @@
   },
   "injuries": [
     {
+      "name": "Kaytron Allen",
+      "position": "RB",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Will Kacmarek",
+      "position": "TE",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
       "name": "Kadyn Proctor",
       "position": "OT",
       "status": "Questionable",
       "detail": ""
     },
     {
+      "name": "Jaylen Wright",
+      "position": "RB",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
       "name": "Malik Herring",
       "position": "DE",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Chop Robinson",
+      "position": "LB",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Zach Sieler",
+      "position": "DT",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Michael Taaffe",
+      "position": "S",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Dante Trader Jr.",
+      "position": "S",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Tucker Addington",
+      "position": "LS",
       "status": "Questionable",
       "detail": ""
     },
