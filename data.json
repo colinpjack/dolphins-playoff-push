@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T05:13:49.853121-05:00",
+  "generatedAt": "2026-11-09T16:00:15.916451-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "MIA",
@@ -65,11 +65,11 @@
     }
   },
   "playoffOdds": {
-    "percent": 0.12,
+    "percent": 0.06,
     "sims": 5000,
-    "note": "Division title in 0.0% of sims, wild card in 0.1%. Point differential, shrunk toward average, plus home field. Not a betting line.",
+    "note": "Division title in 0.0% of sims, wild card in 0.0%. Point differential, shrunk toward average, plus home field. Not a betting line.",
     "divisionPercent": 0.02,
-    "wildcardPercent": 0.1
+    "wildcardPercent": 0.04
   },
   "kpis": [
     {
@@ -1750,6 +1750,12 @@
       "name": "Jalen Tolbert",
       "position": "WR",
       "status": "Out",
+      "detail": ""
+    },
+    {
+      "name": "Malik Willis",
+      "position": "QB",
+      "status": "Questionable",
       "detail": ""
     },
     {
