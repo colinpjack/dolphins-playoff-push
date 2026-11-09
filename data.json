@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T21:33:25.325711-05:00",
+  "generatedAt": "2026-11-09T05:13:49.853121-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "MIA",
@@ -15,7 +15,7 @@
     "3.5 GB OF THE CUT LINE",
     "NEXT SUN @ IND",
     "BYE WEEK 6",
-    "PASSER RATING 79.7"
+    "PASSER RATING 77.1"
   ],
   "narrative": {
     "kicker": "AFC playoff race",
@@ -87,25 +87,25 @@
     {
       "stat": "PPG",
       "label": "Points / game",
-      "value": "16.7",
+      "value": "15.8",
       "hint": "League average sits near 22"
     },
     {
       "stat": "PA",
       "label": "Points allowed",
-      "value": "25.9",
+      "value": "25.0",
       "hint": "Per game. Lower is the whole defense"
     },
     {
       "stat": "YPG",
       "label": "Yards / game",
-      "value": "304.4",
+      "value": "297.8",
       "hint": "Total offense, pass plus rush"
     },
     {
       "stat": "YPG",
       "label": "Yards allowed",
-      "value": "344.0",
+      "value": "336.4",
       "hint": "What the defense is giving up"
     },
     {
@@ -117,13 +117,13 @@
     {
       "stat": "3rd",
       "label": "Third down",
-      "value": "43%",
-      "hint": "38-89 \u00b7 around 40% is average"
+      "value": "42%",
+      "hint": "42-101 \u00b7 around 40% is average"
     },
     {
       "stat": "RZ",
       "label": "Red zone TDs",
-      "value": "56%",
+      "value": "48%",
       "hint": "Trips inside the 20 that become touchdowns"
     },
     {
@@ -156,23 +156,23 @@
     {
       "stat": "PPG",
       "label": "Scoring margin / game",
-      "value": "-9.1",
-      "detail": "16.7 scored, 25.9 allowed.",
+      "value": "-9.2",
+      "detail": "15.8 scored, 25.0 allowed.",
       "direction": "down"
     },
     {
       "stat": "3rd",
       "label": "Third down",
-      "value": "43%",
-      "detail": "38-89",
+      "value": "42%",
+      "detail": "42-101",
       "direction": "up"
     },
     {
       "stat": "RZ",
       "label": "Red zone TDs",
-      "value": "56%",
+      "value": "48%",
       "detail": "Touchdown rate inside the opponent 20.",
-      "direction": "up"
+      "direction": "flat"
     },
     {
       "stat": "SACK",
@@ -437,9 +437,9 @@
       "home": "3-1",
       "road": "2-3",
       "gr": 8,
-      "ypg": 376.8,
-      "yapg": 328.1,
-      "to": -7,
+      "ypg": 380.9,
+      "yapg": 347.3,
+      "to": -11,
       "gb": "\u2014",
       "gbValue": 0.0,
       "path": "Wild card",
@@ -607,9 +607,9 @@
       "home": "1-3",
       "road": "1-4",
       "gr": 8,
-      "ypg": 344.2,
-      "yapg": 332.0,
-      "to": 2,
+      "ypg": 336.1,
+      "yapg": 340.1,
+      "to": 3,
       "gb": "3",
       "gbValue": 3.0,
       "path": "Outside",
@@ -675,8 +675,8 @@
       "home": "0-4",
       "road": "1-3",
       "gr": 9,
-      "ypg": 304.4,
-      "yapg": 344.0,
+      "ypg": 297.8,
+      "yapg": 336.4,
       "to": -3,
       "gb": "3.5",
       "gbValue": 3.5,
@@ -814,9 +814,9 @@
       "home": "3-1",
       "road": "2-3",
       "gr": 8,
-      "ypg": 376.8,
-      "yapg": 328.1,
-      "to": -7,
+      "ypg": 380.9,
+      "yapg": 347.3,
+      "to": -11,
       "gb": "2",
       "gbValue": 2.0,
       "path": "Wild card",
@@ -849,9 +849,9 @@
       "home": "1-3",
       "road": "1-4",
       "gr": 8,
-      "ypg": 344.2,
-      "yapg": 332.0,
-      "to": 2,
+      "ypg": 336.1,
+      "yapg": 340.1,
+      "to": 3,
       "gb": "5",
       "gbValue": 5.0,
       "path": "Outside",
@@ -884,8 +884,8 @@
       "home": "0-4",
       "road": "1-3",
       "gr": 9,
-      "ypg": 304.4,
-      "yapg": 344.0,
+      "ypg": 297.8,
+      "yapg": 336.4,
       "to": -3,
       "gb": "5.5",
       "gbValue": 5.5,
@@ -1064,9 +1064,9 @@
       "home": "3-1",
       "road": "2-3",
       "gr": 8,
-      "ypg": 376.8,
-      "yapg": 328.1,
-      "to": -7
+      "ypg": 380.9,
+      "yapg": 347.3,
+      "to": -11
     },
     {
       "abbr": "NYJ",
@@ -1092,9 +1092,9 @@
       "home": "1-3",
       "road": "1-4",
       "gr": 8,
-      "ypg": 344.2,
-      "yapg": 332.0,
-      "to": 2
+      "ypg": 336.1,
+      "yapg": 340.1,
+      "to": 3
     },
     {
       "abbr": "MIA",
@@ -1120,8 +1120,8 @@
       "home": "0-4",
       "road": "1-3",
       "gr": 9,
-      "ypg": 304.4,
-      "yapg": 344.0,
+      "ypg": 297.8,
+      "yapg": 336.4,
       "to": -3
     }
   ],
@@ -1131,7 +1131,7 @@
     "away": 5,
     "division": 4,
     "bye": 6,
-    "sos": 0.545
+    "sos": 0.549
   },
   "schedule": [
     {
@@ -1256,8 +1256,8 @@
         "name": "Chicago Bears",
         "nickname": "Bears",
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/chi.png",
-        "record": "6-2",
-        "pct": 0.75
+        "record": "7-2",
+        "pct": 0.7777777777777778
       },
       "divisionGame": false,
       "conferenceGame": false,
@@ -1266,7 +1266,7 @@
       "detail": "12/13 - 1:00 PM EST",
       "live": false,
       "final": false,
-      "finsWinPct": 27,
+      "finsWinPct": 28,
       "homeAbbr": "MIA",
       "awayAbbr": "CHI",
       "homeScore": null,
@@ -1816,8 +1816,8 @@
         "position": "QB",
         "jersey": "2",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4242512.png",
-        "line": "108/183, 1268 YDS, 6 TD, 5 INT",
-        "value": "79.7",
+        "line": "121/208, 1396 YDS, 6 TD, 6 INT",
+        "value": "76.1",
         "statLabel": "RTG"
       }
     ],
@@ -1828,18 +1828,8 @@
         "position": "RB",
         "jersey": "0",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4711533.png",
-        "line": "91 CAR, 408 YDS, 4 TD",
-        "value": "408",
-        "statLabel": "YDS"
-      },
-      {
-        "id": "4367209",
-        "name": "Greg Dulcich",
-        "position": "TE",
-        "jersey": "85",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4367209.png",
-        "line": "22 REC, 256 YDS",
-        "value": "256",
+        "line": "107 CAR, 463 YDS, 4 TD",
+        "value": "463",
         "statLabel": "YDS"
       },
       {
@@ -1848,8 +1838,18 @@
         "position": "WR",
         "jersey": "7",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4869645.png",
-        "line": "13 REC, 226 YDS, 2 TD",
-        "value": "226",
+        "line": "19 REC, 296 YDS, 2 TD",
+        "value": "296",
+        "statLabel": "YDS"
+      },
+      {
+        "id": "4367209",
+        "name": "Greg Dulcich",
+        "position": "TE",
+        "jersey": "85",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4367209.png",
+        "line": "24 REC, 270 YDS",
+        "value": "270",
         "statLabel": "YDS"
       },
       {
@@ -1893,13 +1893,13 @@
         "statLabel": "YDS"
       },
       {
-        "id": "4682745",
-        "name": "Jaylen Wright",
+        "id": "4685246",
+        "name": "Kaytron Allen",
         "position": "RB",
-        "jersey": "5",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4682745.png",
-        "line": "22 CAR, 41 YDS",
-        "value": "41",
+        "jersey": "30",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4685246.png",
+        "line": "1 REC, 46 YDS",
+        "value": "46",
         "statLabel": "YDS"
       }
     ],
@@ -1910,8 +1910,8 @@
         "position": "LB",
         "jersey": "10",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4566094.png",
-        "line": "69 \u00b7 1 INT",
-        "value": "69",
+        "line": "79 \u00b7 1 INT",
+        "value": "79",
         "statLabel": "TKL"
       },
       {
@@ -1920,18 +1920,8 @@
         "position": "LB",
         "jersey": "20",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4043130.png",
-        "line": "63",
-        "value": "63",
-        "statLabel": "TKL"
-      },
-      {
-        "id": "4869579",
-        "name": "Chris Johnson",
-        "position": "CB",
-        "jersey": "3",
-        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4869579.png",
-        "line": "40",
-        "value": "40",
+        "line": "75",
+        "value": "75",
         "statLabel": "TKL"
       },
       {
@@ -1940,8 +1930,18 @@
         "position": "S",
         "jersey": "16",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4880346.png",
-        "line": "39 \u00b7 2 INT",
-        "value": "39",
+        "line": "47 \u00b7 2 INT",
+        "value": "47",
+        "statLabel": "TKL"
+      },
+      {
+        "id": "4869579",
+        "name": "Chris Johnson",
+        "position": "CB",
+        "jersey": "3",
+        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4869579.png",
+        "line": "42 \u00b7 1 INT",
+        "value": "42",
         "statLabel": "TKL"
       },
       {
@@ -1950,8 +1950,8 @@
         "position": "S",
         "jersey": "11",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4431664.png",
-        "line": "37 \u00b7 1 INT",
-        "value": "37",
+        "line": "39 \u00b7 1 INT",
+        "value": "39",
         "statLabel": "TKL"
       },
       {
@@ -1960,8 +1960,8 @@
         "position": "LB",
         "jersey": "9",
         "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4046528.png",
-        "line": "29 \u00b7 2 SACK",
-        "value": "29",
+        "line": "34 \u00b7 3 SACK",
+        "value": "34",
         "statLabel": "TKL"
       },
       {
@@ -1986,5 +1986,5 @@
       }
     ]
   },
-  "qbRating": 79.7
+  "qbRating": 77.1
 }
