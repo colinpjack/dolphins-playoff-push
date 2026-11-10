@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T16:00:15.916451-05:00",
+  "generatedAt": "2026-11-09T22:24:51.271506-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "MIA",
@@ -1723,33 +1723,9 @@
   },
   "injuries": [
     {
-      "name": "Chukwuebuka Godrick",
-      "position": "OT",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Christian Haynes",
-      "position": "G",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Justin Joly",
-      "position": "TE",
-      "status": "Out",
-      "detail": ""
-    },
-    {
       "name": "Will Kacmarek",
       "position": "TE",
       "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Jalen Tolbert",
-      "position": "WR",
-      "status": "Out",
       "detail": ""
     },
     {
@@ -1761,18 +1737,6 @@
     {
       "name": "Jaylen Wright",
       "position": "RB",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Marcellas Dial Jr.",
-      "position": "CB",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Reese Taylor",
-      "position": "CB",
       "status": "Out",
       "detail": ""
     },
