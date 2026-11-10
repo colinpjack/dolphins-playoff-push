@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T06:39:36.497573-05:00",
+  "generatedAt": "2026-11-10T14:37:44.609446-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "MIA",
@@ -1737,6 +1737,12 @@
     {
       "name": "Jaylen Wright",
       "position": "RB",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Zach Sieler",
+      "position": "DT",
       "status": "Out",
       "detail": ""
     },
