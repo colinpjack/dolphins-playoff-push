@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T19:33:49.938546-05:00",
+  "generatedAt": "2026-11-11T16:51:07.327889-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "MIA",
@@ -1723,14 +1723,32 @@
   },
   "injuries": [
     {
+      "name": "Chris Bell",
+      "position": "WR",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Aaron Brewer",
+      "position": "C",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
       "name": "Will Kacmarek",
       "position": "TE",
       "status": "Questionable",
       "detail": ""
     },
     {
-      "name": "Jaylen Wright",
-      "position": "RB",
+      "name": "Malik Herring",
+      "position": "DE",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Tucker Addington",
+      "position": "LS",
       "status": "Questionable",
       "detail": ""
     },
