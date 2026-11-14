@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T16:54:48.801805-05:00",
+  "generatedAt": "2026-11-13T21:14:22.770078-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "MIA",
@@ -1735,27 +1735,9 @@
       "detail": ""
     },
     {
-      "name": "Will Kacmarek",
-      "position": "TE",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
       "name": "Jared Wayne",
       "position": "WR",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Malik Herring",
-      "position": "DE",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Tucker Addington",
-      "position": "LS",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {
