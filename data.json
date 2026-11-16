@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T02:10:49.513462-05:00",
+  "generatedAt": "2026-11-16T12:21:26.274433-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "MIA",
@@ -1769,6 +1769,12 @@
       "name": "Marcellas Dial Jr.",
       "position": "CB",
       "status": "Out",
+      "detail": ""
+    },
+    {
+      "name": "Jordan Phillips",
+      "position": "DT",
+      "status": "Questionable",
       "detail": ""
     },
     {
