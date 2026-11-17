@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T12:21:26.274433-05:00",
+  "generatedAt": "2026-11-16T20:00:03.454464-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "MIA",
@@ -1736,21 +1736,9 @@
       "detail": ""
     },
     {
-      "name": "Justin Joly",
-      "position": "TE",
-      "status": "Out",
-      "detail": ""
-    },
-    {
       "name": "Andrew Meyer",
       "position": "C",
       "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Caedan Wallace",
-      "position": "OT",
-      "status": "Out",
       "detail": ""
     },
     {
@@ -1763,12 +1751,6 @@
       "name": "Zeek Biggers",
       "position": "DT",
       "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Marcellas Dial Jr.",
-      "position": "CB",
-      "status": "Out",
       "detail": ""
     },
     {
