@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T04:01:43.052239-05:00",
+  "generatedAt": "2026-11-17T13:25:38.065567-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "MIA",
@@ -1726,13 +1726,13 @@
     {
       "name": "Chris Bell",
       "position": "WR",
-      "status": "Out",
+      "status": "Questionable",
       "detail": ""
     },
     {
       "name": "Aaron Brewer",
       "position": "C",
-      "status": "Out",
+      "status": "Questionable",
       "detail": ""
     },
     {
@@ -1744,7 +1744,7 @@
     {
       "name": "Jared Wayne",
       "position": "WR",
-      "status": "Out",
+      "status": "Questionable",
       "detail": ""
     },
     {
