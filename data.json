@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T13:25:38.065567-05:00",
+  "generatedAt": "2026-11-17T20:13:50.494523-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "MIA",
@@ -1748,18 +1748,6 @@
       "detail": ""
     },
     {
-      "name": "Zeek Biggers",
-      "position": "DT",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Jordan Phillips",
-      "position": "DT",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
       "name": "De'Von Achane",
       "position": "RB",
       "status": "Injured Reserve",
@@ -1769,6 +1757,12 @@
       "name": "Darrell Baker Jr.",
       "position": "CB",
       "status": "Out",
+      "detail": ""
+    },
+    {
+      "name": "Zeek Biggers",
+      "position": "DT",
+      "status": "Injured Reserve",
       "detail": ""
     },
     {
@@ -1786,6 +1780,12 @@
     {
       "name": "Trey Moore",
       "position": "LB",
+      "status": "Injured Reserve",
+      "detail": ""
+    },
+    {
+      "name": "Jordan Phillips",
+      "position": "DT",
       "status": "Injured Reserve",
       "detail": ""
     },
