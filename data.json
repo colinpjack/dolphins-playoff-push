@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T11:01:42.975099-05:00",
+  "generatedAt": "2026-11-20T17:36:30.295312-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "MIA",
@@ -1724,25 +1724,7 @@
   },
   "injuries": [
     {
-      "name": "Chris Bell",
-      "position": "WR",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
       "name": "Aaron Brewer",
-      "position": "C",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Caleb Douglas",
-      "position": "WR",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "Andrew Meyer",
       "position": "C",
       "status": "Questionable",
       "detail": ""
@@ -1750,31 +1732,19 @@
     {
       "name": "Jared Wayne",
       "position": "WR",
-      "status": "Questionable",
-      "detail": ""
-    },
-    {
-      "name": "JuJu Brents",
-      "position": "CB",
-      "status": "Questionable",
+      "status": "Out",
       "detail": ""
     },
     {
       "name": "Jaylin Simpson",
       "position": "S",
-      "status": "Questionable",
+      "status": "Doubtful",
       "detail": ""
     },
     {
       "name": "Dante Trader Jr.",
       "position": "S",
       "status": "Doubtful",
-      "detail": ""
-    },
-    {
-      "name": "Tucker Addington",
-      "position": "LS",
-      "status": "Questionable",
       "detail": ""
     },
     {
