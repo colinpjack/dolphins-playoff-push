@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T17:36:30.295312-05:00",
+  "generatedAt": "2026-11-20T22:26:44.072720-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "MIA",
@@ -1733,6 +1733,12 @@
       "name": "Jared Wayne",
       "position": "WR",
       "status": "Out",
+      "detail": ""
+    },
+    {
+      "name": "Marcellas Dial Jr.",
+      "position": "CB",
+      "status": "Questionable",
       "detail": ""
     },
     {
