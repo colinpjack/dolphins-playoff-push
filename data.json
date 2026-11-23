@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T04:41:37.310762-05:00",
+  "generatedAt": "2026-11-23T16:59:10.806268-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "MIA",
@@ -1724,24 +1724,6 @@
     "elimRival": "BUF"
   },
   "injuries": [
-    {
-      "name": "Christian Haynes",
-      "position": "G",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Justin Joly",
-      "position": "TE",
-      "status": "Out",
-      "detail": ""
-    },
-    {
-      "name": "Caedan Wallace",
-      "position": "OT",
-      "status": "Out",
-      "detail": ""
-    },
     {
       "name": "Jared Wayne",
       "position": "WR",
