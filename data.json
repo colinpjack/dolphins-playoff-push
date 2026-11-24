@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T00:53:48.185990-05:00",
+  "generatedAt": "2026-11-24T12:28:55.761781-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "MIA",
@@ -1727,7 +1727,7 @@
     {
       "name": "Jared Wayne",
       "position": "WR",
-      "status": "Out",
+      "status": "Questionable",
       "detail": ""
     },
     {
@@ -1739,19 +1739,19 @@
     {
       "name": "Jaylin Simpson",
       "position": "S",
-      "status": "Out",
+      "status": "Questionable",
       "detail": ""
     },
     {
       "name": "Dante Trader Jr.",
       "position": "S",
-      "status": "Out",
+      "status": "Questionable",
       "detail": ""
     },
     {
       "name": "Bradley Pinion",
       "position": "P",
-      "status": "Out",
+      "status": "Questionable",
       "detail": ""
     },
     {
