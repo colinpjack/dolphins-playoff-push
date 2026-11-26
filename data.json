@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T07:12:55.539990-05:00",
+  "generatedAt": "2026-11-26T16:52:11.347238-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "MIA",
@@ -1131,7 +1131,7 @@
     "away": 3,
     "division": 3,
     "bye": 6,
-    "sos": 0.56
+    "sos": 0.562
   },
   "schedule": [
     {
@@ -1200,8 +1200,8 @@
         "name": "Chicago Bears",
         "nickname": "Bears",
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/chi.png",
-        "record": "8-2",
-        "pct": 0.8
+        "record": "9-2",
+        "pct": 0.8181818181818182
       },
       "divisionGame": false,
       "conferenceGame": false,
@@ -1635,8 +1635,8 @@
         "name": "Detroit Lions",
         "nickname": "Lions",
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/det.png",
-        "record": "8-2",
-        "pct": 0.8
+        "record": "8-3",
+        "pct": 0.7272727272727273
       },
       "divisionGame": false,
       "conferenceGame": false,
