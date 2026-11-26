@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T12:28:55.761781-05:00",
+  "generatedAt": "2026-11-25T21:46:16.080574-05:00",
   "season": 2026,
   "seasonGames": 17,
   "team": "MIA",
@@ -1725,6 +1725,12 @@
   },
   "injuries": [
     {
+      "name": "Austin Jackson",
+      "position": "OT",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
       "name": "Jared Wayne",
       "position": "WR",
       "status": "Questionable",
@@ -1737,14 +1743,20 @@
       "detail": ""
     },
     {
-      "name": "Jaylin Simpson",
-      "position": "S",
+      "name": "Rodney McGraw",
+      "position": "DE",
       "status": "Questionable",
       "detail": ""
     },
     {
       "name": "Dante Trader Jr.",
       "position": "S",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Jackson Woodard",
+      "position": "LB",
       "status": "Questionable",
       "detail": ""
     },
